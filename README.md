@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Ahmed Mahmoud
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?? on my mail elazazy11@yahoo.com
+I’m a Junior full stack Developer trying to be a good software engineer.
+I’m passionate with problem solving.
+🔭 I’m currently working on side projects to acquire some experience.
+🌱 I’m currently learning .net 
+💬 Ask me about Software Development.
+📫 How to reach me: ahmedelazazywork@gmail.com 
+⚡ Fun fact: My face does not represent my age!
 
 <!---
 elazazy424/elazazy424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
