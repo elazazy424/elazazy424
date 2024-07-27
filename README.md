@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elazazy</h1>
-<h3 align="center">A junior backend developer</h3>
+<h3>Hello, I'm Eslam Ahmed, a dedicated Computer Science Graduated at HICIT. As a junior backend developer, I bring a solid foundation in ASP.NET, C#, and MS SQL database technologies.</h3>
 
 - 📫 How to reach me **ahmedelazazywork@gmail.com**
 
